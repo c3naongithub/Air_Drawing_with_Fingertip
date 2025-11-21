@@ -1,4 +1,3 @@
-# Air_Drawing_with_Fingertip
 
 # Air Drawing with Fingertip Tracking
 
