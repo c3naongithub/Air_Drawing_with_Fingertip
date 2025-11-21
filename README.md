@@ -15,9 +15,6 @@ It uses **Python**, **OpenCV**, and **MediaPipe** to track your hand and fingert
 
 ## Demo
 
-![Air Drawing Demo](demo_image_or_gif.gif)
-
-*Replace with a screenshot or GIF of your drawing.*
 
 ---
 
